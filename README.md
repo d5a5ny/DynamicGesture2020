@@ -1,6 +1,6 @@
 # DynamicGesture2020
 
-It is my own dataset. https://media.githubusercontent.com/media/d5a5ny/DynamicGesture2020/master/DynamicGesture2020.zip. 
+It is my own dataset.
 
 i just want to upload it to the aws cloud
 
